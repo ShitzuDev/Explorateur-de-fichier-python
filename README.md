@@ -13,6 +13,15 @@ Je souhaitait créer un explorateur de fichiers **qui me ressemble**, avec une i
 🔄 **Un projet en constante évolution** :  
 Ce programme n'est pas encore terminé et sera amélioré **jour après jour**. Il est pensé pour être un **projet à long terme**, qui ne sera jamais complètement "fini", car il continuera d'évoluer selon mes besoins et mes idées.
 
+---
+
+## 🛠️ **Prérequis**
+
+Avant de pouvoir exécuter le programme, vous devez installer les dépendances nécessaires. Pour cela, **lancez le fichier `requierement.bat`**. Ce script installera automatiquement toutes les bibliothèques nécessaires pour faire fonctionner le programme.
+
+1. Téléchargez ou clonez le projet.
+2. Lancez le fichier `requierement.bat` qui se trouve dans le répertoire du projet.
+3. Suivez les instructions à l'écran pour installer les bibliothèques.
 
 ---
 
