@@ -1,37 +1,23 @@
-## 🎵 Téléchargeur de Musique Automatique 🎶
+# 🌟 **Explorateur de Fichiers Personnalisé par Shitzu** 🌟
 
-Ce programme permet de télécharger des musiques depuis YouTube en utilisant un titre ou un artiste en entrée. Les musiques téléchargées sont sauvegardées dans un dossier appelé **"Musiques"**. 🗂️ 
+Ce programme a été **conçu par moi meme** dans le but de créer un **explorateur de fichiers personnalisé**. L'idée derrière ce projet était de pouvoir naviguer facilement dans ses fichiers tout en ayant un contrôle total sur l'interface et le design.
 
-### 🚀 Fonctionnement :
+🔍 **Fonctionnalités** :  
+- **Recherche en temps réel** 🔍 : Filtre les fichiers et dossiers en fonction des lettres tapées.  
+- **Interface esthétique** 🎨 : Fond animé, barre de navigation personnalisée, boutons stylisés.  
+- **Navigation simple et rapide** 🚀 : Facilité d'ouverture de dossiers et de fichiers avec un seul clic.
 
-1. **🎧 Téléchargement de la musique** :
-   - Le programme demande un titre ou un artiste, puis il effectue une recherche sur YouTube pour trouver la chanson correspondante. 🔍
-   - La chanson est ensuite téléchargée en format MP3 🎶
-   - Tous les fichiers téléchargés sont sauvegardés dans un dossier nommé **"Musiques"**, qui est automatiquement créé si nécessaire. 💾
+📂 **Pourquoi ce projet ?**  
+Je souhaitait créer un explorateur de fichiers **qui me ressemble**, avec une interface moderne et fonctionnelle qui comporte mes gouts et mes couleurs. Ce projet permet d'explorer ses fichiers et dossiers tout en profitant d'une expérience visuelle unique, loin des explorateurs traditionnels.
 
-2. **⚠️ Message d'erreur** :
-   - Si un message d'erreur s'affiche pendant le téléchargement, ne vous inquiétez pas, c'est normal et cela ne signifie pas que le programme ne fonctionne pas. ❌
-   - Ces erreurs peuvent être liées à des problèmes de connexion ou d'autres facteurs externes, mais le programme continue à télécharger d'autres musiques sans problème. ✅
-
-### 📋 Exemple de commande :
-
-- Vous pouvez entrer un titre de chanson ou un nom d'artiste pour télécharger la musique correspondante.
-
-  ```bash
-  Entrez le titre ou l'artiste (ou 'exit' pour quitter) : Imagine Dragons 
-
-Si vous voulez quitter le programme, tapez `exit`. 👋
-
-### ⚙️ Détails du programme :
-
-- **📂 Dossier de destination** : Les musiques seront placées dans le dossier **"Musiques"**.
-- **💿 Format du fichier** : Les musiques sont téléchargées au format MP3.
-- **🔧 Gestion des erreurs** : Si une erreur survient pendant le téléchargement, elle sera affichée, mais cela n'empêchera pas le programme de continuer à fonctionner correctement. 👍 (la musique sera tout de meme téléchargé)
+🔄 **Un projet en constante évolution** :  
+Ce programme n'est pas encore terminé et sera amélioré **jour après jour**. Il est pensé pour être un **projet à long terme**, qui ne sera jamais complètement "fini", car il continuera d'évoluer selon mes besoins et mes idées.
 
 ---
+## 🛠️ **Prérequis**
+Avant de pouvoir exécuter le programme, vous devez installer les dépendances nécessaires. Pour cela, **lancez le fichier `requierement.bat`**. Ce script installera automatiquement toutes les bibliothèques nécessaires pour faire fonctionner le programme.
+1. Téléchargez ou clonez le projet.
+2. Lancez le fichier `requierement.bat` qui se trouve dans le répertoire du projet.
+3. Suivez les instructions à l'écran pour installer les bibliothèques.
 
-### 📥 Avant de lancer le programme :
-
-- N'oubliez pas d'éxécuter le fichier **`requirements.bat`** avant de lancer le programme Python. Ce fichier installera les dépendances nécessaires pour que le programme fonctionne correctement. 📂⚙️
-
-
+---
